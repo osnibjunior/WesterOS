@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="WesterOS_LG.png" />
+  <img src="assets/WesterOS_LG.png" />
 </p>
