@@ -1,1 +1,3 @@
-![WesterOS Logo](WesterOS_LG.png)
+<p align="center">
+  <img src="WesterOS_LG.png" />
+</p>
