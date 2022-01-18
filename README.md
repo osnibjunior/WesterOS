@@ -1,2 +1,1 @@
-# WesterOS
-A service that kills processes randomly.
+![WesterOS Logo](WesterOS_LG.png)
